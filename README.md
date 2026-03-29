@@ -8,8 +8,6 @@
 
 > VisualIntel is a premium, cutting-edge web application engineered for high-speed, unstructured image data analysis. By combining a modern cyber-minimalist interface with a powerful deep learning backend, it provides near-instantaneous object detection and precise localization.
 
-![VisualIntel Banner](docs/banner.png)
-
 ## 🚀 Key Features
 
 * **Drag & Drop Interface:** Seamlessly upload images or paste direct URLs for immediate analysis.
@@ -105,4 +103,4 @@ The primary inference endpoint for the AI engine.
 ## 👨‍💻 Author
 
 **Created by Shashwat Chaturvedi.**  
-[LinkedIn Profile](#) | [GitHub Profile](#)
+[LinkedIn Profile](https://www.linkedin.com/in/shashwat-chaturvedi-a840a4353/) | [GitHub Profile](https://github.com/Victorralph7011)
